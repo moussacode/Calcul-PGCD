@@ -15,7 +15,7 @@ function calculerPGCD() {
 
   // Afficher le résultat dans le label
   document.getElementById("resultatLabel").textContent =
-    "Le PGCD est egale a : " + pgcd;
+    "Le PGCD est : " + pgcd;
 }
 
 // Fonction pour le calcul du PGCD en utilisant l'algorithme d'Euclide
