@@ -69,3 +69,8 @@ h1 {
 #resultatLabel {
   height: 20px;
 }
+@media screen and (max-width: 768px) {
+  .contenu {
+    width: 90%;
+  }
+}
